@@ -150,7 +150,7 @@ body{
 
 @media screen and (max-width: 600px) and (min-width:320px) {
      body{
-        background-size: 200%;
+        background-size: 450%;
      }
     #score-box{
         font-size: 10px;
